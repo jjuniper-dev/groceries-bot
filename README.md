@@ -1,1 +1,3 @@
 # groceries-bot
+
+The beginnings 
